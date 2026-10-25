@@ -41,7 +41,7 @@ const server = http.createServer((req, res) => {
   // API Health check endpoint
   if (pathname === '/api/health') {
     res.writeHead(200, { 'Content-Type': 'application/json' });
-    res.end(JSON.stringify({ status: 'ok', service: 'DentConnect Local Server', time: new Date().toISOString() }));
+    res.end(JSON.stringify({ status: 'ok', service: 'Clinishift Local Server', time: new Date().toISOString() }));
     return;
   }
 
@@ -90,7 +90,7 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, '0.0.0.0', () => {
   console.log(`================================================================`);
-  console.log(`  DentConnect Server is LIVE and RUNNING!`);
+  console.log(`  Clinishift Server is LIVE and RUNNING!`);
   console.log(`  Local URL:    http://localhost:${PORT}`);
   console.log(`  Network URL:  http://127.0.0.1:${PORT}`);
   console.log(`  Startup Time: ${new Date().toLocaleTimeString()}`);

@@ -15,7 +15,7 @@ export default function ForClinicsPage() {
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">For clinics</p>
           <h1 className="text-4xl font-black text-navy-900">Find the right dental specialist without disrupting patient care.</h1>
           <p className="mt-5 max-w-xl text-lg leading-8 text-slate-600">
-            DentConnect helps clinics fill short-term gaps, cover absence periods, and access specialist expertise for restorative, surgical, orthodontic, and periodontal care.
+            Clinishift helps clinics fill short-term gaps, cover absence periods, and access specialist expertise for restorative, surgical, orthodontic, and periodontal care.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <Link href="/register" className="primary-btn">

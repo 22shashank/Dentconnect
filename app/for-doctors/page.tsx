@@ -15,7 +15,7 @@ export default function ForDoctorsPage() {
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">For specialists</p>
           <h1 className="text-4xl font-black text-navy-900">Grow your dental practice with flexible, curated opportunities.</h1>
           <p className="mt-5 max-w-xl text-lg leading-8 text-slate-600">
-            DentConnect helps qualified dental professionals find part-time work, temporary coverage, and specialist consultation opportunities across India while maintaining compliance and professional standards.
+            Clinishift helps qualified dental professionals find part-time work, temporary coverage, and specialist consultation opportunities across India while maintaining compliance and professional standards.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <Link href="/join-specialist" className="primary-btn">

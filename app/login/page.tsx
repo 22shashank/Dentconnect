@@ -11,7 +11,7 @@ export default function LoginPage() {
         <form className="mt-8 space-y-5">
           <div>
             <label className="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Email address</label>
-            <input type="email" className="form-input" defaultValue="admin@dentconnect.in" />
+            <input type="email" className="form-input" defaultValue="admin@clinishift.in" />
           </div>
           <div>
             <label className="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Password</label>

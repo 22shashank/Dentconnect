@@ -48,7 +48,7 @@ export default function JoinSpecialistPage() {
             <div className="rounded-[28px] bg-brand-50 p-5">
               <h3 className="text-xl font-bold text-brand-700">Clinical safety requirements</h3>
               <p className="mt-3 text-sm leading-7 text-slate-700">
-                Only professionals whose credentials and eligibility have been verified can be listed as verified or made eligible for booking requests. DentConnect does not independently authorise clinical practice.
+                Only professionals whose credentials and eligibility have been verified can be listed as verified or made eligible for booking requests. Clinishift does not independently authorise clinical practice.
               </p>
             </div>
 

@@ -7,10 +7,10 @@ export function SiteFooter() {
         <div className="lg:col-span-2">
           <div className="mb-4 flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-brand-500 text-lg font-bold text-white">
-              D
+              C
             </div>
             <div>
-              <div className="text-xl font-bold text-white">DentConnect</div>
+              <div className="text-xl font-bold text-white">Clinishift</div>
               <div className="text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-400">
                 The Right Specialist. At the Right Time.
               </div>
@@ -52,7 +52,7 @@ export function SiteFooter() {
 
       <div className="border-t border-slate-800">
         <div className="section-shell flex flex-col gap-3 py-6 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between">
-          <p>© 2026 DentConnect. Built for India’s dental care ecosystem.</p>
+          <p>© 2026 Clinishift. Built for India’s dental care ecosystem.</p>
           <div className="flex items-center gap-5">
             <Link href="/privacy">Privacy Policy</Link>
             <Link href="/terms">Terms</Link>

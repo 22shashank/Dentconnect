@@ -4,11 +4,11 @@ export default function ContactPage() {
       <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
         <div className="card-surface p-8">
           <p className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">Contact support</p>
-          <h1 className="text-4xl font-black text-navy-900">Talk to the DentConnect team.</h1>
+          <h1 className="text-4xl font-black text-navy-900">Talk to the Clinishift team.</h1>
           <div className="mt-8 space-y-5 text-slate-700">
             <div>
               <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Email</div>
-              <div className="mt-1 text-base">support@dentconnect.in</div>
+              <div className="mt-1 text-base">support@clinishift.in</div>
             </div>
             <div>
               <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Phone</div>

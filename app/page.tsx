@@ -8,7 +8,7 @@ const steps = [
   },
   {
     title: 'Review verified matches',
-    description: 'DentConnect surfaces matching specialists by expertise, city, travel radius, and availability.',
+    description: 'Clinishift surfaces matching specialists by expertise, city, travel radius, and availability.',
   },
   {
     title: 'Confirm and complete',

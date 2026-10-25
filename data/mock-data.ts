@@ -141,8 +141,8 @@ export const bookingWorkflow = [
 
 export const faqs = [
   {
-    question: 'Who can register on DentConnect?',
-    answer: 'DentConnect is designed for verified clinics, MDS specialists, and qualified dentists in India who meet clinical and documentation requirements.',
+    question: 'Who can register on Clinishift?',
+    answer: 'Clinishift is designed for verified clinics, MDS specialists, and qualified dentists in India who meet clinical and documentation requirements.',
   },
   {
     question: 'What happens after a clinic posts a requirement?',
@@ -157,8 +157,8 @@ export const faqs = [
     answer: 'The platform follows a clear cancellation workflow with pre-agreed terms, refund handling, and communication between the clinic and specialist.',
   },
   {
-    question: 'Does DentConnect authorise clinical practice?',
-    answer: 'No. DentConnect coordinates qualified professionals and provides compliance workflows, but clinics and professionals remain responsible for local legal, licensing, and clinical governance obligations.',
+    question: 'Does Clinishift authorise clinical practice?',
+    answer: 'No. Clinishift coordinates qualified professionals and provides compliance workflows, but clinics and professionals remain responsible for local legal, licensing, and clinical governance obligations.',
   },
 ];
 

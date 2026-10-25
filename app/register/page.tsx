@@ -10,7 +10,7 @@ export default function RegisterPage() {
     <div className="section-shell py-16">
       <div className="mx-auto max-w-3xl rounded-[32px] border border-slate-200 bg-white p-8 shadow-soft">
         <p className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">Create account</p>
-        <h1 className="text-3xl font-black text-navy-900">Join DentConnect</h1>
+        <h1 className="text-3xl font-black text-navy-900">Join Clinishift</h1>
         <p className="mt-2 text-sm text-slate-600">Set up a clinic or specialist profile and start coordinating verified dental coverage.</p>
 
         <div className="mt-8 grid gap-3 sm:grid-cols-2">
@@ -45,7 +45,7 @@ export default function RegisterPage() {
           </div>
           <div>
             <label className="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Email address</label>
-            <input type="email" className="form-input" defaultValue="hello@dentconnect.in" />
+            <input type="email" className="form-input" defaultValue="hello@clinishift.in" />
           </div>
           <div>
             <label className="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Password</label>

@@ -18,10 +18,10 @@ export default function AboutPage() {
     <div className="section-shell py-12 lg:py-16">
       <section className="grid gap-10 lg:grid-cols-[1fr_1fr] lg:items-center">
         <div>
-          <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">About DentConnect</p>
+          <p className="mb-3 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">About Clinishift</p>
           <h1 className="text-4xl font-black text-navy-900">A dental marketplace built for dependable, timely specialist access.</h1>
           <p className="mt-5 text-lg leading-8 text-slate-600">
-            DentConnect was imagined to close a practical gap in the Indian dental healthcare ecosystem: clinics need specialist support when regular clinicians are unavailable, and qualified dental professionals want access to flexible opportunities without the friction of fragmented outreach.
+            Clinishift was imagined to close a practical gap in the Indian dental healthcare ecosystem: clinics need specialist support when regular clinicians are unavailable, and qualified dental professionals want access to flexible opportunities without the friction of fragmented outreach.
           </p>
         </div>
 

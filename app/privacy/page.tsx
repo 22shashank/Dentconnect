@@ -3,14 +3,14 @@ export default function PrivacyPage() {
     <div className="section-shell py-12 lg:py-16">
       <div className="max-w-4xl">
         <p className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-brand-700">Privacy policy</p>
-        <h1 className="text-4xl font-black text-navy-900">How DentConnect handles personal and clinical information.</h1>
+        <h1 className="text-4xl font-black text-navy-900">How Clinishift handles personal and clinical information.</h1>
       </div>
 
       <div className="mt-10 space-y-8 text-base leading-8 text-slate-700">
         <section className="card-surface p-7">
           <h2 className="text-2xl font-bold text-slate-900">1. Information we collect</h2>
           <p className="mt-3">
-            DentConnect collects information required to support account creation, professional verification, clinic onboarding, appointment coordination, and service delivery. This may include names, contact information, qualifications, location, work history, booking preferences, and supporting documents where applicable.
+            Clinishift collects information required to support account creation, professional verification, clinic onboarding, appointment coordination, and service delivery. This may include names, contact information, qualifications, location, work history, booking preferences, and supporting documents where applicable.
           </p>
         </section>
 
@@ -24,7 +24,7 @@ export default function PrivacyPage() {
         <section className="card-surface p-7">
           <h2 className="text-2xl font-bold text-slate-900">3. Data security</h2>
           <p className="mt-3">
-            DentConnect maintains reasonable technical and organisational safeguards to reduce unauthorised access, loss, or misuse of personal and health-related information. Private documents are stored with access control and role-based permissions.
+            Clinishift maintains reasonable technical and organisational safeguards to reduce unauthorised access, loss, or misuse of personal and health-related information. Private documents are stored with access control and role-based permissions.
           </p>
         </section>
 
